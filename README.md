@@ -1,11 +1,17 @@
 <h3 align="center">Hi There👋, I'm Saeed Kouta , A Cloud DevOps Engineer</h3>
 
+
+
 <p align="center">
   <img align="center" src="https://media1.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.webp" width="300" height="300" />
 </p>
 
-<h3 align="center"> I’m currently Cloud DevOps Trainee at IVolve Technologies</h3>
-<h3 align="center"> I’m looking for an entry-level position as Devops Engineer</h3>
+## About Me
+
+### I am a recent graduate from  MTI University, class of 2023. As a Communication and Electronics Engineer I am passionate about cloud technologies and DevOps practices.
+
+<h3 align="left"> I’m currently Cloud DevOps Trainee at IVolve Technologies</h3>
+<h3 align="left"> I’m looking for an entry-level position as Devops Engineer</h3>
 
 
 <h3 align="center">Tools & Technologies:</h3>
@@ -44,7 +50,14 @@
   <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/>
   </a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
+  </a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/>
+  </a>
 </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
