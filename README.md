@@ -10,8 +10,8 @@
 
 ### I’m a recent graduate from  MTI University, class of 2023. As a Communication and Electronics Engineer I am passionate about cloud technologies and DevOps practices.
 
-<h3 align="left"> I’m currently Cloud DevOps Trainee at IVolve Technologies</h3>
-<h3 align="left"> I’m looking for an entry-level position as Devops Engineer</h3>
+<h3 align="left"> I’m currently Cloud DevOps Trainee at IVolve Technologies.</h3>
+<h3 align="left"> I’m looking for an entry-level position as Devops Engineer.</h3>
 
 
 <h3 align="center">Tools & Technologies:</h3>
